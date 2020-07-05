@@ -1,0 +1,3 @@
+C:/Users/mcern/Desktop/Kinali/cmake-build-debug/CMakeFiles/Kinali.dir
+C:/Users/mcern/Desktop/Kinali/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mcern/Desktop/Kinali/cmake-build-debug/CMakeFiles/rebuild_cache.dir

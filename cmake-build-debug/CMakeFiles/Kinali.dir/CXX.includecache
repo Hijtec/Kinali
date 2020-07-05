@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mcern/Desktop/Kinali/item_manage.cpp
+vector
+-
+iostream
+-
+string
+-
+item_manage.h
+C:/Users/mcern/Desktop/Kinali/item_manage.h
+
+C:/Users/mcern/Desktop/Kinali/item_manage.h
+vector
+-
+
